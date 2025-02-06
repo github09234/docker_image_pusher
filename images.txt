@@ -6,5 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 
-a76yyyy/qianda
+a76yyyy/qiandao
 stilleshan/frpc:0.36.2
