@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 
 a76yyyy/qiandao
+tilleshan/frpc:0.36.2
