@@ -9,4 +9,3 @@ xhofe/alist:latest
 a76yyyy/qiandao
 stilleshan/frpc:0.36.2
 xhofe/alist
-dify/dify
