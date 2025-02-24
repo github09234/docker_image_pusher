@@ -11,3 +11,5 @@ stilleshan/frpc:0.36.2
 #xhofe/alist
 haroldli/xiaoya-tvbox
 containrrr/watchtower
+
+sitoi/dailycheckin
