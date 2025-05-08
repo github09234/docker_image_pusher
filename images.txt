@@ -13,3 +13,4 @@ haroldli/xiaoya-tvbox
 containrrr/watchtower
 
 sitoi/dailycheckin
+resilio/sync
