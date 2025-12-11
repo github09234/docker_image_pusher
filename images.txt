@@ -6,7 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 
-a76yyyy/qiandao
+qdtoday/qd
 stilleshan/frpc:0.36.2
 #xhofe/alist
 haroldli/xiaoya-tvbox
