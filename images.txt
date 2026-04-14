@@ -14,3 +14,4 @@ containrrr/watchtower
 
 sitoi/dailycheckin
 resilio/sync
+ailg/g-box:hostmode
